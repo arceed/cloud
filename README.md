@@ -1,6 +1,4 @@
-# cloud
-
-Cloud Computing
+#Cloud Computing
 ===============
 
 SOA, RESTful, Inegration, Cloud Compution, Machine Learning.
